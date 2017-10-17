@@ -54,4 +54,4 @@ def test_StandardScaler():
 if __name__=='__main__':
     test_MinMaxScaler()
     test_MaxAbsScaler()
-    test_MaxAbsScaler()
+    test_StandardScaler()
